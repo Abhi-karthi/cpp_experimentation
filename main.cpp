@@ -24,6 +24,6 @@ int main() {
     cout << cars[0] << endl;
     cout << add(3, 5);
 
-    return add(3, 6); //
+    return add(3, 7); //
 }
 
